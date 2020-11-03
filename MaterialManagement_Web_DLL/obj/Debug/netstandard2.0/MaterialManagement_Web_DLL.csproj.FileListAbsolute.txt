@@ -1,0 +1,9 @@
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\bin\Debug\netstandard2.0\MaterialManagement_Web_DLL.deps.json
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\bin\Debug\netstandard2.0\MaterialManagement_Web_DLL.dll
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\bin\Debug\netstandard2.0\MaterialManagement_Web_DLL.pdb
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.csprojAssemblyReference.cache
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.AssemblyInfo.cs
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.dll
+c:\Users\USER\Desktop\MaterialManagement\MaterialManagement_Web_DLL\obj\Debug\netstandard2.0\MaterialManagement_Web_DLL.pdb
